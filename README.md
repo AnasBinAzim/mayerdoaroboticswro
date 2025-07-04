@@ -1,6 +1,6 @@
-# 🤖 Mayerdoa Robotics — WRO 2024 🇧🇩
+# 🤖 Mayerdoa Robotics — WRO 2025 🇧🇩
 
-Welcome to the official repository of **Mayerdoa Robotics**, representing **Bangladesh** in the **World Robot Olympiad (WRO) 2024 – Future Engineers Category**.
+Welcome to the official repository of **Mayerdoa Robotics**  **World Robot Olympiad (WRO) 2025 – Future Engineers Category**.
 
 ---
 
